@@ -1,1 +1,3 @@
+Fichero de conflicto en GITHUB
 Fichero de conflicto en Eclipse
+
